@@ -1,3 +1,9 @@
+# GenAI school webpage: https://paris-genai-school.github.io/
+
+Genai_school/ ├── PDF/ │ ├── 21OCTgen_ai_genbasic_I_Alasdair_Newson.pdf│ ├── 21OCT_Score_based_denoising_diffusion_An_introduction_ERIC_Moulines.pdf
+ │ └── init.py ├── tests/ │ ├── test_main.py │ └── test_utils.py ├── README.md └── requirements.txt
+
+
 # Lectures 
 
 * Xavier Alameda-Pineda - Inria at University Grenoble Alpes
