@@ -7,7 +7,7 @@
 ### Lecture 1: Introduction to Generative AI
 - **Title**: 21OCT_gen_ai_genbasic_I_Alasdair_Newson.pdf
 - **Speaker**: Alasdair Newson
-- **Content**: VAN GAN Diffusion Model
+- **Content**: VAE GAN Diffusion Model
 
 ### Lecture 2: Denoising Diffusion Models
 - **Title**: 21OCT_Score_based_denoising_diffusion_An_introduction_ERIC_Moulines.pdf
